@@ -1,0 +1,6 @@
+1000|laptop|11500.0|5
+1001|mouse|500.0|12
+1002|keyboard|494.2|7
+1003|web camera|92.0|4
+1004|headphones|1200.0|30
+1005|printer|2000.0|1
